@@ -1,0 +1,2 @@
+2022/07/24 18:37:37 log.go:25: Exit!! open ./aaa: no such file or directory
+2022/07/24 18:39:00 /Users/hirokazutaniyama/Desktop/Go/go_practice/log.go:25: Exit!! open ./aaa: no such file or directory
