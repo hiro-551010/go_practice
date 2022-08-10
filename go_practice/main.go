@@ -1,12 +1,13 @@
 package main
 
 import (
-	"mylib"
 	"fmt"
+	"go_practice/pac/pac"
 )
 
 func main() {
 	s := []int{1, 2, 3, 4, 5}
-	fmt.Println(mylib.Average(s))
-	mylib.say();
+	fmt.Println(pac.Average(s))
+	pac.human("go")
 }
+
