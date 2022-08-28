@@ -1,3 +1,3 @@
-module mylib
+module app
 
 go 1.18
